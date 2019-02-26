@@ -8,7 +8,7 @@ Hello! My name is Andrei. I live in Minsk, Belarus. I'm a third-year student of 
 
 [Github account](https://github.com/andrewwdk)
 
- ### Codewars
+### Codewars
  
 [Codewars account](https://www.codewars.com/users/andrewwdk)
 
